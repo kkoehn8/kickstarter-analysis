@@ -42,6 +42,8 @@ The first data challenge was the field Category and Subcategory. This field was 
 
 The second data challenge was the date format of the original data. The data was in a UNIX format that was not human-readable. To overcome this challenge it was necessary to convert the data from UNIX format to a human-readable format. 
 
+![dates](/kickstarter-analysis/Dates.PNG)
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
