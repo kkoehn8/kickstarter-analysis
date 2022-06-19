@@ -34,7 +34,7 @@ The second analysis conducted for our client was to determine the Outcomes of ca
 
 The main parts of this analysis included:
  1. Separating concatenated data. The original dataset contained a single column for Category and Subcategory in which the data was concatented. It was necessary to separate this data into two separate columns to allow easier querying. 
- 2. Creating specific goal categories at $5,000 increments. This helps our client by looking at the overall data logical subsets. 
+ 2. Creating specific goal categories at $5,000 increments. This helps our client by looking at the overall data using logical subsets. 
  3. Creating a Pivot Table to assist in determining insights for our specific analysis
  4. Creating a Pivot Chart to visualize the data for the client in a user friendly format
 
