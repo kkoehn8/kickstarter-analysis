@@ -52,7 +52,7 @@ The second data challenge was the date format of the original data. The data was
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-When conducting the Theater Outcomes based on Launch Date the Chart is quite useful in visualzing the trends. One factor of note is that there is a peak in success for campaigns launched in May. In fact, this is the most month when most successful camtains are launched. Secondly, it can be noticed that number of campaigns that are canceled are quite consistent regardless of the month they are launched. 
+When conducting the Theater Outcomes based on Launch Date the Chart is quite useful in visualzing the trends. One factor of note is that there is a peak in success for campaigns launched in May. In fact, this is the most month when most successful campaigns are launched. Secondly, it can be noticed that number of campaigns that are canceled are quite consistent regardless of the month they are launched. 
 
 - What can you conclude about the Outcomes based on Goals?
 
