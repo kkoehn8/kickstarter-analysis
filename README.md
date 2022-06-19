@@ -18,6 +18,8 @@ The two main analyses that were created for the client concern outcomes. Our cli
 
 The first analysis conducted for our client was to determine the Outcomes of campaigns based on the launch date. This could help our client determine if there may be a better time to lauch a campaign to ensure a successful result. 
 
+![Outcomes_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
+
 The main parts of this analysis included:
  1. Separating concatenated data. The original dataset contained a single column for Category and Subcategory in which the data was concatented. It was necessary to separate this data into two separate columns to allow easier querying. 
  2. Converting the source data from a UNIX data format to a hunam readable format
@@ -27,6 +29,8 @@ The main parts of this analysis included:
 ### Analysis of Outcomes Based on Goals
 
 The second analysis conducted for our client was to determine the Outcomes of campaigns based on the goals. This could help our client determine if she may not achieve a successful campaign based on the goal of her campaign.  
+
+![Outcomes_Goals](/Resources/Outcomes_vs_Goals.png)
 
 The main parts of this analysis included:
  1. Separating concatenated data. The original dataset contained a single column for Category and Subcategory in which the data was concatented. It was necessary to separate this data into two separate columns to allow easier querying. 
